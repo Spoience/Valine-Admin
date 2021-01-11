@@ -8,7 +8,7 @@ Valine comment system enhanced by LeanCloud cloud engine
 
 ## Introduction
 
-Please read [Valine Admin Edible Guide](https://spoience.com/valine-admin.html)
+Please read [Valine Admin Edible Guide](https://spoience.com/articles/valine-admin.html)
 
 ## Original author information
 
